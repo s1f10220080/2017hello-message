@@ -1,5 +1,6 @@
 def hello():
-    message = 'Good morning'
+    message = 'Hello'
+    message = 'Hello'
     print(message)
 
 hello()
